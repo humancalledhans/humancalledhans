@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @humancalledhans
 - 👀 I’m interested in tying solutions together to solve a big problem
 - 🌱 I’m currently learning Flutter
-- 💞️ 
+- 💞️ I'm addicted to writing and & working with beautiful code
 - 📫 
 
 <!---
